@@ -1,11 +1,31 @@
-📌 Website Responsivo Este é um projeto de website responsivo desenvolvido com HTML, CSS e JavaScript. 
-O objetivo é criar uma interface moderna, fluida e adaptável a diferentes tamanhos de tela, proporcionando uma experiência agradável tanto em desktops quanto em dispositivos móveis.
+# Website Responsivo - TravelsGo 🌍✈️
 
-🛠 Tecnologias Utilizadas HTML5 → Estrutura semântica do site CSS3 → Estilização e responsividade com Flexbox/Grid JavaScript → Pequenas interações dinâmicas
+Este é um projeto de um website responsivo para uma agência de viagens fictícia chamada **TravelsGo**. O site apresenta destinos turísticos, hospedagens e oferece contato para orçamento de viagens.
 
-📱 Recursos
+## 📂 Estrutura do Projeto
 
-✅ Layout Responsivo para diferentes telas 
-✅ Design Moderno com cores e tipografia equilibradas
-✅ Efeitos e Animações sutis para uma experiência mais interativa 
-✅ Navbar Dinâmica que se adapta conforme a rolagem
+- `index.html` - Página principal do site.
+- `css/style.css` - Estilos gerais do site.
+- `css/responsive.css` - Estilos para responsividade.
+- `js/menu.js` - Script para interações no menu.
+- `images/` - Diretório contendo as imagens utilizadas no site.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** - Estruturação da página.
+- **CSS3** - Estilização e responsividade.
+- **JavaScript** - Interatividade com o menu.
+- **Google Fonts** - Fonte *Poppins* para melhor aparência.
+- **Bootstrap Icons** - Ícones para navegação e botões.
+
+## 📌 Funcionalidades
+
+- Página inicial com um **banner chamativo** e informações principais.
+- Seções destacando **vantagens**, **destinos**, **hotéis** e **formas de contato**.
+- **Links interativos** para WhatsApp, e-mail e telefone.
+- Design **responsivo**, adaptável para diferentes telas.
+
+## Créditos
+
+Gostaria de agradecer a Bruno Rodrigues (https://github.com/brunorodris) pelas videoaulas incríveis que me ajudaram a desenvolver este código. Assisti às aulas dele no YouTube e segui o passo a passo enquanto desenvolvia o projeto.
+
