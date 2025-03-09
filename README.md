@@ -2,6 +2,8 @@
 
 Este é um projeto de um website responsivo para uma agência de viagens fictícia chamada **TravelsGo**. O site apresenta destinos turísticos, hospedagens e oferece contato para orçamento de viagens.
 
+![Captura de tela 2025-03-09 150207](https://github.com/user-attachments/assets/b1532ce9-804d-49c0-89bd-0681b0a2d064)
+
 ## 📂 Estrutura do Projeto
 
 - `index.html` - Página principal do site.
@@ -28,4 +30,5 @@ Este é um projeto de um website responsivo para uma agência de viagens fictíc
 ## Créditos
 
 Gostaria de agradecer a Bruno Rodrigues (https://github.com/brunorodris) pelas videoaulas incríveis que me ajudaram a desenvolver este código. Assisti às aulas dele no YouTube e segui o passo a passo enquanto desenvolvia o projeto.
+
 
